@@ -1,0 +1,48 @@
+body {
+    font-family: 'Karla', sans-serif;
+    text-align: center;
+    background-image: url("back.jpeg");
+    background-size: contain;
+    color: white;
+    font-weight: bold;
+}
+
+h1 {
+    font-weight: 700;
+    font-size: 50px;
+    color: gold;
+}
+
+#message {
+    font-size: 40px;
+    font-style: italic;
+}
+
+p {
+    font-size: 30px;
+}
+
+#start {
+    margin: 7px;
+    font-size: 25px;
+    font-weight: 700;
+    color: #016f32;
+    width: 300px;
+    background: gold;
+    padding: 10px;
+    border-style: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+#new {
+    font-size: 25px;
+    font-weight: 700;
+    color: #016f32;
+    width: 300px;
+    background: gold;
+    padding: 10px;
+    border-style: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
